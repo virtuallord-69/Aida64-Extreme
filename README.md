@@ -149,3 +149,6 @@ This repository serves as the official landing page for AIDA64 Extreme. The soft
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of AIDA64 Extreme today!**
+
+---
+**Last updated:** 2026-11-10 17:38:26 UTC
