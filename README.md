@@ -151,4 +151,4 @@ This repository serves as the official landing page for AIDA64 Extreme. The soft
 **Get the most recent version of AIDA64 Extreme today!**
 
 ---
-**Last updated:** 2026-11-12 02:47:12 UTC
+**Last updated:** 2026-11-12 10:49:10 UTC
